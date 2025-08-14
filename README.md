@@ -1,10 +1,10 @@
-#NEURAL STYLE TRANSFER
+**NEURAL STYLE TRANSFER**
 
 COMPANY: CODTECH IT SOLUTIONS
 
-NAME: Keerthi K
+NAME: HARSHITHA V
 
-INTERN ID: CT06DG2158
+INTERN ID: CT06DG2210
 
 DOMAIN: Artificial Intelligence
 
@@ -12,12 +12,12 @@ DURATION: 6 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-#Project Overview
+**Project Overview:**
 This project implements a Neural Style Transfer tool that blends the content of one image with the artistic style of another using a pre-trained deep learning model from TensorFlow Hub. Built on the concept of convolutional neural networks, this tool enables creative image generation by applying artistic transformations to photographs.
 
 The goal of this project is to demonstrate how pre-trained transformer-based vision models can be used to generate stylized visual content. The project helps explore the intersection of deep learning and art, making it applicable to design tools, content creation, and image-based AI applications.
 
-#Tools & Technologies Used
+**Tools & Technologies Used:**
 Tool/Library	Purpose
 Python	Main programming language
 TensorFlow + TensorFlow Hub	Load pre-trained neural style transfer model
@@ -37,7 +37,7 @@ The model returns a new stylized image that combines the structure of the conten
 
 Output Display The resulting stylized image is displayed using Matplotlib and saved locally using OpenCV.
 
-#Future Improvements
+**Future Improvements:**
 Add UI for real-time style selection (via Gradio/Streamlit)
 
 Allow users to adjust style intensity or blend ratio
@@ -48,7 +48,7 @@ Add custom style training option
 
 Provide downloadable output with quality control options
 
-#Output
+**Output:**
 Generated image:
 
 ![Image](https://github.com/user-attachments/assets/33362583-777f-4f69-8bdd-c7ed72399e75)
