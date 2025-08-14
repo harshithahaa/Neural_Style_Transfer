@@ -1,4 +1,5 @@
 #NEURAL STYLE TRANSFER
+
 COMPANY: CODTECH IT SOLUTIONS
 
 NAME: Keerthi K
@@ -49,3 +50,5 @@ Provide downloadable output with quality control options
 
 #Output
 Generated image:
+
+![Image](https://github.com/user-attachments/assets/33362583-777f-4f69-8bdd-c7ed72399e75)
